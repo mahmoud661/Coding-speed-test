@@ -2,6 +2,9 @@
 
 This is a **Next.js** project that allows users to test and improve their coding speed. The application provides coding challenges, measures typing speed, and evaluates accuracy to help users enhance their coding efficiency.
 
+![localhost_3000_](https://github.com/user-attachments/assets/a1de338f-1fb3-4065-a336-2f44ebd99899)
+
+
 ## Features
 - Real-time typing test with live speed and accuracy tracking.
 - A results dashboard that shows typing speed (words per minute), accuracy, and errors.
